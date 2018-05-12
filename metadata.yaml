@@ -1,0 +1,44 @@
+_repo: Subversive_23197
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: '''Subversive'''' is, in essence, a negative term--it means simply ''''against
+  the existent system.'''' It doesn''t mean subversives all agree ...'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Subversive
+url: http://www.gutenberg.org/ebooks/23197
