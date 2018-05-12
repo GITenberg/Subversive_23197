@@ -27,6 +27,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
 description: '''Subversive'''' is, in essence, a negative term--it means simply ''''against
   the existent system.'''' It doesn''t mean subversives all agree ...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23197#Subversive
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-26'
 gutenberg_type: Text
